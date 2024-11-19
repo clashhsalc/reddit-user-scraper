@@ -1,4 +1,4 @@
-# Reddit User Analyzer
+# Reddit User Scraper
 
 <div align="center">
 
@@ -30,8 +30,8 @@ Analyze Reddit user activity with visualizations and insights.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/clashhsalc/reddit-user-analyzer.git
-   cd reddit-user-analyzer
+   git clone https://github.com/clashhsalc/reddit-user-scraper.git
+   cd reddit-user-scraper
    ```
 
 2. Install the required packages:
